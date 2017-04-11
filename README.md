@@ -1,2 +1,2 @@
 # start-app-react
-Initial project settings for ReactJS with Webpack 2
+Initial project settings for ReactJS + Babel + Webpack 2
